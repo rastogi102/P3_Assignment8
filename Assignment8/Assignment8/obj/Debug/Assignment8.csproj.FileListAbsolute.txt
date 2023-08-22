@@ -1,0 +1,13 @@
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\bin\Debug\Assignment8.exe.config
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\bin\Debug\Assignment8.exe
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\bin\Debug\Assignment8.pdb
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\bin\Debug\EntityFramework.dll
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\bin\Debug\EntityFramework.SqlServer.dll
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\bin\Debug\EntityFramework.xml
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\bin\Debug\EntityFramework.SqlServer.xml
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.AssemblyReference.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.CopyComplete
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\obj\Debug\Assignment8.exe
+F:\Training Stuff\Database_ASP.NET\Assignments\8\Assignment8\Assignment8\obj\Debug\Assignment8.pdb
